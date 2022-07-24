@@ -16,4 +16,4 @@ npm run build
 echo Deploying..
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:RomanRadaykinFrontend/elastoo-test.git master
+git push -f git@github.com:RomanRadaykinFrontend/telegram-test.git master
